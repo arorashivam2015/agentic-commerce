@@ -65,11 +65,4 @@ Featured across major Indian financial news outlets at the **India AI Impact Sum
 
 ## About
 
-I'm **Shivam Arora**, and I built ArthaAI as part of my work at **Mastercard**.  
-This project was presented at the **India AI Impact Summit 2026**, Bharat Mandapam, New Delhi, and was picked up by CNBC Awaaz as a signal of where AI-powered commerce is headed.
-
----
-
-## License
-
-MIT
+Built at **Mastercard** and presented at the **India AI Impact Summit 2026**, Bharat Mandapam, New Delhi — picked up by CNBC Awaaz as a signal of where AI-powered commerce is headed.
